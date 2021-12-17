@@ -15,7 +15,7 @@ plans = [
 ]
 
 plans.each do |plan|
-  Plan.find_or_create_by(
+  Plan.create(
     title: plan[:title],
     start: plan[:start],
     end: plan[:end]
