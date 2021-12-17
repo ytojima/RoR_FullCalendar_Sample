@@ -1,4 +1,4 @@
-# fullCalender導入サンプル
+# FullCalender導入サンプル
 
 Dockerを使用してサンプルを作成しています。  
 Dockerを使用しない場合は、appフォルダ以下で、コマンドを実行してください。
